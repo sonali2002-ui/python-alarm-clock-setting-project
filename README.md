@@ -12,6 +12,20 @@ A simple alarm clock application created using Python with Tkinter library in a 
 
 
 
+# 📌 Features
+
+🕰️ Set one-time alarms through a graphical user interface
+
+🔔 Audible alert when the alarm time is reached
+
+📅 Real-time clock display
+
+🧠 Hands-on experience with Python modules like datetime, time, and playsound
+
+📊 Basic time pattern analysis using alarm logs (optional extension)
+
+
+
 # 🛠️ Technologies Used
 
 •	Python 3.x
@@ -31,13 +45,13 @@ A simple alarm clock application created using Python with Tkinter library in a 
 
 ## •	Prerequisites
 
-Make sure you have Python and the required libraries installed:
+      Make sure you have Python and the required libraries installed:
 
 ## •	Run the Project 
 
 1. Clone the repository:
 
-git clone https://github.com/your-username/alarm-clock-python.git
+   git clone https://github.com/your-username/alarm-clock-python.git
 
 
 2. Open the AlarmClock Project.ipynb file in Jupyter Notebook.

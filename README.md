@@ -8,7 +8,7 @@ A simple alarm clock application created using Python with Tkinter library in a 
 
 •	AlarmClock Project.ipynb – Main Jupyter Notebook containing the Python code for the alarm clock with GUI.
 
-      (https://github.com/sonali2002-ui/python-alarm-clock-setting-project/blob/main/AlarmClock%20Project.ipynb)
+      https://github.com/sonali2002-ui/python-alarm-clock-setting-project/blob/main/AlarmClock%20Project.ipynb
       
       
 

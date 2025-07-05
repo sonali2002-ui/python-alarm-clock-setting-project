@@ -33,7 +33,7 @@ A simple alarm clock application created using Python with Tkinter library in a 
 
 Make sure you have Python and the required libraries installed:
 
-•	Run the Project 
+## •	Run the Project 
 
 1. Clone the repository:
 

@@ -11,8 +11,7 @@ A simple alarm clock application created using Python with Tkinter library in a 
       
       
 
-•	morning_flower.wav – Alarm sound file that plays when the set time is triggered.
-      
+•	morning_flower.wav – Alarm sound file that plays when the set time is triggered.                                                                                                                                          
       (https://github.com/sonali2002-ui/python-alarm-clock-setting-project/blob/main/morning_flower.wav)
       
       

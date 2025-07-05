@@ -1,10 +1,10 @@
-# ⏰ Alarm Clock with Python & Tkinter
+## ⏰ Alarm Clock with Python & Tkinter
 
 A simple alarm clock application created using Python with Tkinter library in a Jupyter Notebook. This beginner-friendly project features a graphical user interface for setting alarms and plays a soft alert sound when the alarm time is reached.
 
 
 
-# 📁 Files Included
+## 📁 Files Included
 
 •	AlarmClock Project.ipynb – Main Jupyter Notebook containing the Python code for the alarm clock with GUI.                                                                                                       
       (https://github.com/sonali2002-ui/python-alarm-clock-setting-project/blob/main/AlarmClock%20Project.ipynb)
@@ -17,7 +17,7 @@ A simple alarm clock application created using Python with Tkinter library in a 
       
 
 
-# 📌 Features
+## 📌 Features
 
 🕰️ Set one-time alarms through a graphical user interface
 
@@ -31,7 +31,7 @@ A simple alarm clock application created using Python with Tkinter library in a 
 
 
 
-# 🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 •	Python 3.x
 
@@ -46,14 +46,14 @@ A simple alarm clock application created using Python with Tkinter library in a 
 
 
 
-# 🚀 Getting Started
+## 🚀 Getting Started
 
-## •	Prerequisites
+### •	Prerequisites
 
       Make sure you have Python and the required libraries installed:
       pip install playsound
 
-## •	Run the Project 
+### •	Run the Project 
 
 1. Clone the repository: git clone https://github.com/sonali2002-ui/python-alarm-clock-setting-project
 
@@ -65,7 +65,7 @@ A simple alarm clock application created using Python with Tkinter library in a 
 
 
 
-# 🎯 Learning Outcomes
+## 🎯 Learning Outcomes
 
 •	GUI development with Tkinter
 

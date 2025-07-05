@@ -46,12 +46,11 @@ A simple alarm clock application created using Python with Tkinter library in a 
 ## •	Prerequisites
 
       Make sure you have Python and the required libraries installed:
+      pip install playsound
 
 ## •	Run the Project 
 
-1. Clone the repository:
-
-   git clone https://github.com/your-username/alarm-clock-python.git
+1. Clone the repository:  git clone https://github.com/your-username/alarm-clock-python.git
 
 
 2. Open the AlarmClock Project.ipynb file in Jupyter Notebook.

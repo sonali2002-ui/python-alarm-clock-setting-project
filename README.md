@@ -7,11 +7,15 @@ A simple alarm clock application created using Python with Tkinter library in a 
 # 📁 Files Included
 
 •	AlarmClock Project.ipynb – Main Jupyter Notebook containing the Python code for the alarm clock with GUI.
-      https://github.com/sonali2002-ui/python-alarm-clock-setting-project/blob/main/AlarmClock%20Project.ipynb
+
+      (https://github.com/sonali2002-ui/python-alarm-clock-setting-project/blob/main/AlarmClock%20Project.ipynb)
+      
       
 
 •	morning_flower.wav – Alarm sound file that plays when the set time is triggered.
-      https://github.com/sonali2002-ui/python-alarm-clock-setting-project/blob/main/morning_flower.wav
+      
+      (https://github.com/sonali2002-ui/python-alarm-clock-setting-project/blob/main/morning_flower.wav)
+      
       
 
 
